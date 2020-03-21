@@ -2,17 +2,17 @@
 title: Shiqing Sun's Homepage
 SEOTitle: Shiqing Sun's Homepage
 header-img: img/zen-bn-noded.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: ssun27@jhu.edu
+description: "PhD Student @ Johns Hopkins University"
+keyword: "Shiqing Sun"
+url: "http://laosun004.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/laosun004/laosun004.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "PhD = Person hustle for Dreams."
+sidebar-avatar: /img/selfie2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
